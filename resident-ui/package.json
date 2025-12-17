@@ -33,7 +33,7 @@
     "json-rules-engine": "^6.0.0",
     "jsonpath-plus": "^4.0.0",
     "jstz": "^2.1.1",
-    "material-icons": "^0.2.3",
+    "material-icons": "^0.7.7",
     "moment": "^2.23.0",
     "ng-recaptcha": "^5.0.0",
     "ng2-pdf-viewer": "^5.3.3",
