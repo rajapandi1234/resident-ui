@@ -1,4 +1,4 @@
-FROM nginx
+FROM nginx:1.29.4-trixie
 
 ARG SOURCE
 ARG COMMIT_HASH
